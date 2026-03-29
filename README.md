@@ -1,6 +1,6 @@
 <p align='center'>
   <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=3badcf&height=300&section=header&text=SangMin's%20Github&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=38&descAlignY=51&descAlign=62" />
+    src="https://capsule-render.vercel.app/api?type=waving&color=3badcf&height=300&section=header&text=SangMin's%20Github&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=38&descAlignY=51&descAlign=62" />
 </p>
 
 <div style="text-align: left;">
@@ -29,17 +29,14 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">    
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <br />
   </div>
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: black;"> 📫 Contact </h2>
 <div>
-  <a href="mailto:hi0sangmin@gmail.com" style="text-decoration: none;">
-    <img
-      src="https://img.shields.io/badge/hi0sangmin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+  <img src="https://img.shields.io/badge/hi0sangmin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />&nbsp
 </div>
 
 <!--
