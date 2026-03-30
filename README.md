@@ -1,4 +1,7 @@
-<p align='center'><img width="1536" height="1024" alt="ChatGPT Image 2026년 3월 31일 오전 07_26_34" src="https://github.com/user-attachments/assets/9de9ea83-17ac-4d37-9b05-b084e602c6c3" />
+<p align='center'>
+
+<img width="1558" height="368" alt="image" src="https://github.com/user-attachments/assets/7e2fd5ab-b596-4dfc-934c-648fdebce2c5" />
+
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=3badcf&height=300&section=header&text=SangMin's%20Github&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=38&descAlignY=51&descAlign=62" />
