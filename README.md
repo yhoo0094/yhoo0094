@@ -38,6 +38,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/yhoo0094/miniPX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yhoo0094&repo=miniPX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="miniPX"></a>
+    <a href="https://github.com/yhoo0094/helloPaPang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yhoo0094&repo=helloPaPang&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="helloPaPang"></a>
   </p>
 </details>
 
